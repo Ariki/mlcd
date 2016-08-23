@@ -53,7 +53,7 @@
 #endif
 
 /*
- * To enable one or more font subsets, you also need to define one of
+ * To enable one or more font subsets, you also need to define one or more of
  * MLCD_FONT_XXX symbols. See mlcd_font.h
  */
 
