@@ -1,0 +1,13 @@
+# Output files
+*.hex
+*.out
+
+# IDEs and editors
+*.swp
+*~
+
+# KDE
+.desktop
+
+# Windows
+Thumbs.db
